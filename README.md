@@ -8,4 +8,5 @@ Help curb misinformation.
 Deploy a practical AI tool for verifying news authenticity.
 
  Conclusion
+ 
 A reliable machine learning system for detecting fake news with an accuracy of over 90% using PassiveAggressiveClassifier and TfidfVectorizer. Practical for media platforms and fact-checking apps.
